@@ -1,0 +1,24 @@
+.error_text{
+    color: red;
+    font-size: 20px;
+    font-weight:bold;
+}
+
+.central__hq {
+    top: 50%;
+        left: 50%;
+        width: 30em;
+        height: 18em;
+        margin-top: -9em;
+        margin-left: -15em;
+        position: fixed;
+}
+
+.name{
+font-size: 40px;
+}
+
+.money{
+
+}
+
